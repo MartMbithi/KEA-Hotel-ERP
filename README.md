@@ -1,52 +1,51 @@
 <p align="center"><img src="https://github.com/MartMbithi/KEA-Hotel-ERP/blob/master/Kea-ERP-Logo.png" width="400"></p>
+<p align="center">
+    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/MartDevelopers-Inc/KEA-Hotel-ERP?style=social">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/MartDevelopers-Inc/KEA-Hotel-ERP?style=social">
+    <img alt="GitHub" src="https://img.shields.io/github/license/MartDevelopers-Inc/KEA-Hotel-ERP?style=social">
+</p>
 
-![Jekyll site CI](https://github.com/MartMbithi/KEA-Hotel-ERP/workflows/Jekyll%20site%20CI/badge.svg)
+## About KEA-Hotel-ERP 
 
-![Laravel](https://github.com/MartMbithi/KEA-Hotel-ERP/workflows/Laravel/badge.svg)
-
-## About KEA-Hotel-ERP
-
-KEA -Hotel-ERP is a software solution tool developed for  Hotel management and designed for hoteliers to manage
-their operations in an effective way. It helps hotelier to manage hotel billing system, reservation system, online hotel booking system,
+KEA -Hotel-ERP is a software solution tool developed for  Hotel management and designed for hoteliers to manage their operations in an effective way. It helps hotelier to manage hotel billing system, reservation system, online hotel booking system,
 room status and much more in a single software. KEA-Hotel-ERP is accessible, powerful, and provides tools required for large, robust hotel management.
 
-### KEA Hotel ERP Modules
+<p align="center"><img src="https://raw.githubusercontent.com/MartDevelopers-Inc/KEA-Hotel-ERP/master/1.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/MartDevelopers-Inc/KEA-Hotel-ERP/master/2.png" ></p>
+
+###  Modules 
 ```
 1. Reservation Center
     -> Reservations
-    -> Check Ins
-    -> Check Outs
-    -> Room Transerfers
+    -> Reservations Payments
     
 2. House Keeping Module
-    -> Room Cleaning Assignments
-    -> Room Cleaners
+    -> Room Services
     
 3. Resturant Management
-    -> Tables
-    -> Rooms
-    -> Take Aways
-    -> Deliveries
+    -> Resturant Sales
+
     
 4. Inventory Management
 5. Payrolls
-6. Accounts
-7. MIS And Advanced Reporting
+6. MIS And Advanced Reporting
     -> Resturant Sales
-    -> Stock Reports
-    -> Supplier Outstanding
     -> Bills
-    -> Tax Reports
     -> Reservation Reports
     
 8. Highly Customizable Landing Pages With Inbult Content Management System
+
+Demo Login Credentials
+
+Admin Login Credentials
+Email    : sysadmin@kea-hotel-erp.org
+Password : demo
+
+Staff Login Credentials
+Email    : janedoe@kerp.org
+Password : 123
 ```
 
-<p align="center"><img src="https://github.com/MartDevelopers-Inc/KEA-Hotel-ERP/blob/master/kea-hotel.png" ></p>
-
-## Security Vulnerabilities
-
-If you discover a security vulnerability within KEA Hotel ERP , please send an e-mail to MartDevelopers Inc via [martdevelopers254@gmail.com](mailto:martdevelopers254@gmail.com). All security vulnerabilities will be promptly addressed.
 
 ## License
 
